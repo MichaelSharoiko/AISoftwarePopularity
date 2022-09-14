@@ -5,4 +5,5 @@ Recently however, there have been many posts and threads regarding AI and its ab
 I started this project to see just how popular some of the art generating AI software has been since they have gotten more attention.
 
 
-![AI Art Software Popularity](https://user-images.githubusercontent.com/72543232/190040562-8a4e4f3d-c794-42bf-abd7-71274735f42e.png)
+
+![AI Art Software Popularity](https://user-images.githubusercontent.com/72543232/190040721-fc198edb-092b-433b-aefb-b6b7542614ad.png)
